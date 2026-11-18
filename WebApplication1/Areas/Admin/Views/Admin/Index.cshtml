@@ -1,0 +1,299 @@
+﻿@{
+    ViewData["Title"] = "Affiliate İdarəetmə Paneli";
+}
+<div class="container" style="padding: 5rem;">
+    
+    <!-- Yuxarı Başlıq və Əsas Əməliyyat Düymələri -->
+    <div class="d-flex flex-wrap justify-content-between align-items-center mb-4 pb-3 border-bottom border-secondary border-opacity-25">
+        <div>
+            <h2 class="fw-bold mb-1 text-white">🚀 Affiliate İdarəetmə Paneli</h2>
+            <p class="text-muted mb-0 small">Sistem üzrə real-vaxt klik, konversiya və postback axını</p>
+        </div>
+        <div class="d-flex flex-wrap gap-2 mt-3 mt-md-0">
+            <a href="/admin/export/clicks" class="btn btn-success btn-action shadow-sm">📥 Excel-ə İxrac Et (.CSV)</a>
+<<<<<<< HEAD
+            <a href="/admin/casino/casinos" class="btn btn-outline-light btn-action">🎰 Kazinoları İdarə Et</a>
+=======
+            <a href="/admin/casino" class="btn btn-outline-light btn-action">🎰 Kazinoları İdarə Et</a>
+>>>>>>> 19e1c65 (18.11.2026)
+            <a href="/admin/test-postback" class="btn btn-warning btn-action text-dark fw-semibold">🧪 Postback Test Et</a>
+            <a href="/admin/logout" class="btn btn-outline-danger btn-action">Çıxış Et</a>
+        </div>
+    </div>
+
+    <!-- KPI Kartları (Ümumi göstəricilər) -->
+    <!-- 📊 Statistika Kartları -->
+    <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(160px, 1fr)); gap: 15px; margin-bottom: 30px;">
+        
+        <div style="background: rgba(17, 21, 34, 0.9); border: 1px solid #1e2638; border-radius: 12px; padding: 18px;">
+            <div style="color: #9ca3af; font-size: 12px;">Ümumi Kliklər</div>
+<<<<<<< HEAD
+            <div style="font-size: 22px; font-weight: 900; color: #fff; margin-top: 5px;">Model.TotalClicks</div>
+=======
+            <div style="font-size: 22px; font-weight: 900; color: #fff; margin-top: 5px;">@ViewBag.TotalClicks</div>
+>>>>>>> 19e1c65 (18.11.2026)
+        </div>
+
+        <div style="background: rgba(17, 21, 34, 0.9); border: 1px solid #1e2638; border-radius: 12px; padding: 18px;">
+            <div style="color: #9ca3af; font-size: 12px;">Unikal Kliklər</div>
+<<<<<<< HEAD
+            <div style="font-size: 22px; font-weight: 900; color: var(--neon-cyan); margin-top: 5px;">Model.UniqueClicks</div>
+=======
+            <div style="font-size: 22px; font-weight: 900; color: var(--neon-cyan); margin-top: 5px;">@ViewBag.UniqueClicks</div>
+>>>>>>> 19e1c65 (18.11.2026)
+        </div>
+
+        <div style="background: rgba(17, 21, 34, 0.9); border: 1px solid #1e2638; border-radius: 12px; padding: 18px;">
+            <div style="color: #9ca3af; font-size: 12px;">Qeydiyyatlar (Reg)</div>
+<<<<<<< HEAD
+            <div style="font-size: 22px; font-weight: 900; color: var(--gold); margin-top: 5px;">Model.TotalRegistrations</div>
+=======
+            <div style="font-size: 22px; font-weight: 900; color: var(--gold); margin-top: 5px;">@ViewBag.TotalRegs</div>
+>>>>>>> 19e1c65 (18.11.2026)
+        </div>
+
+        <div style="background: rgba(17, 21, 34, 0.9); border: 1px solid #1e2638; border-radius: 12px; padding: 18px;">
+            <div style="color: #9ca3af; font-size: 12px;">İlkin Depozitlər (FTD)</div>
+<<<<<<< HEAD
+            <div style="font-size: 22px; font-weight: 900; color: var(--neon-green); margin-top: 5px;">Model.TotalDeposits</div>
+=======
+            <div style="font-size: 22px; font-weight: 900; color: var(--neon-green); margin-top: 5px;">@ViewBag.TotalDeposits</div>
+>>>>>>> 19e1c65 (18.11.2026)
+        </div>
+
+        <div style="background: rgba(17, 21, 34, 0.9); border: 1px solid #1e2638; border-radius: 12px; padding: 18px;">
+            <div style="color: #9ca3af; font-size: 12px;">CR% (FTD)</div>
+<<<<<<< HEAD
+            <div style="font-size: 22px; font-weight: 900; color: #38bdf8; margin-top: 5px;">Model.ConversionRate%</div>
+=======
+            <div style="font-size: 22px; font-weight: 900; color: #38bdf8; margin-top: 5px;">@ViewBag.ConversionRate%</div>
+>>>>>>> 19e1c65 (18.11.2026)
+        </div>
+
+        <div style="background: rgba(17, 21, 34, 0.9); border: 1px solid #1e2638; border-radius: 12px; padding: 18px;">
+            <div style="color: #9ca3af; font-size: 12px;">Ümumi Qazanc</div>
+<<<<<<< HEAD
+            <div style="font-size: 22px; font-weight: 900; color: #34d399; margin-top: 5px;">Model.TotalPayout AZN</div>
+=======
+            <div style="font-size: 22px; font-weight: 900; color: #34d399; margin-top: 5px;">@ViewBag.TotalPayout AZN</div>
+>>>>>>> 19e1c65 (18.11.2026)
+        </div>
+
+    </div>
+
+    <!-- Qrafik Hissəsi -->
+    <div class="row mb-5">
+        <div class="col-md-12">
+            <div class="card card-custom p-4">
+                <div class="d-flex justify-content-between align-items-center mb-3">
+                    <h5 class="fw-semibold text-white mb-0">📈 Son 7 Günün Trafik və Depozit Dinamikası</h5>
+                    <span class="badge bg-secondary bg-opacity-24 text-secondary border border-secondary border-opacity-25">Analitika</span>
+                </div>
+                <div style="position: relative; height: 350px; width: 100%;">
+                    <canvas id="performanceChart"></canvas>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Son Kliklər və Mənbələr Cədvəli -->
+    <div class="card card-custom mb-5">
+        <div class="card-header bg-transparent border-bottom border-secondary border-opacity-25 py-3">
+            <h5 class="fw-semibold text-white mb-0">📊 Son Kliklər və Trafik Mənbələri (Sub1 / Sub2)</h5>
+        </div>
+        <div class="card-body p-0 table-responsive">
+            <table class="table table-dark-custom mb-0">
+                <thead>
+                    <tr>
+                        <th>Vaxt</th>
+                        <th>Kazino</th>
+                        <th>Token (SubID)</th>
+                        <th>Mənbə (Sub1)</th>
+                        <th>Kampaniya (Sub2)</th>
+<<<<<<< HEAD
+=======
+                        <th> (Sub3)</th>
+>>>>>>> 19e1c65 (18.11.2026)
+                        <th>Status</th>
+                        <th>Payout</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var click in ViewBag.RecentClicks)
+                    {
+                        <tr>
+                            <td>
+                                <span class="local-time text-muted small" data-utc="@click.ClickTime.ToString("yyyy-MM-ddTHH:mm:ssZ")">
+                                    @click.ClickTime.ToString("dd.MM.yyyy HH:mm") (UTC)
+                                </span>
+                            </td>
+                            <td><strong class="text-white">@click.Casino?.Name</strong></td>
+                            <td><code class="text-info bg-dark px-2 py-1 rounded">@click.Token</code></td>
+                            <td><span class="badge bg-secondary bg-opacity-25 text-light border border-secondary border-opacity-50">@(string.IsNullOrEmpty(click.Sub1) ? "-" : click.Sub1)</span></td>
+                            <td><span class="badge bg-dark text-light border border-secondary border-opacity-50">@(string.IsNullOrEmpty(click.Sub2) ? "-" : click.Sub2)</span></td>
+<<<<<<< HEAD
+=======
+                            <td><span class="badge bg-dark text-light border border-secondary border-opacity-50">@(string.IsNullOrEmpty(click.Sub3) ? "-" : click.Sub3)</span></td>
+>>>>>>> 19e1c65 (18.11.2026)
+                            <td>
+                                @if (click.IsDeposited)
+                                {
+                                    <span class="badge bg-success bg-opacity-20 text-success border border-success border-opacity-50">FTD (Depozit)</span>
+                                }
+                                else if (click.IsRegistered)
+                                {
+                                    <span class="badge bg-info bg-opacity-20 text-info border border-info border-opacity-50">Reg</span>
+                                }
+                                else
+                                {
+                                    <span class="badge bg-warning bg-opacity-20 text-warning border border-warning border-opacity-50">Sadə Klik</span>
+                                }
+                            </td>
+                            <td><strong class="text-success">@click.Payout AZN</strong></td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+
+    <!-- Postback Tarixçəsi və Audit Cədvəli -->
+    <div class="card card-custom mb-4">
+        <div class="card-header bg-transparent border-bottom border-secondary border-opacity-25 py-3">
+            <h5 class="fw-semibold text-white mb-0">🛡️ Postback Audit Tarixçəsi (`PostbackLogs`)</h5>
+        </div>
+        <div class="card-body p-0 table-responsive">
+            <table class="table table-dark-custom mb-0">
+                <thead>
+                    <tr>
+                        <th>Vaxt</th>
+                        <th>IP</th>
+                        <th>Gələn Növ</th>
+                        <th>Məbləğ</th>
+                        <th>Nəticə</th>
+                        <th>Sistem Cavabı</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var pb in ViewBag.RecentPostbacks)
+                    {
+                        <tr class="@(pb.IsSuccessful ? "" : "bg-danger bg-opacity-10")">
+                            <td>
+<<<<<<< HEAD
+                                <span class="local-time text-muted small" data-utc="@pb.ReceivedAt.ToString("yyyy-MM-ddTHH:mm:ssZ")">
+                                    @pb.ReceivedAt.ToString("dd.MM.yyyy HH:mm") (UTC)
+                                </span>
+                            </td>
+                            <td><code class="text-light">@pb.IpAddress</code></td>
+                            <td><b class="text-uppercase text-info">@pb.Type</b></td>
+=======
+                                <span class="local-time text-muted small" data-utc="@pb.ProcessedTime.ToString("yyyy-MM-ddTHH:mm:ssZ")">
+                                    @pb.ProcessedTime.ToString("dd.MM.yyyy HH:mm") (UTC)
+                                </span>
+                            </td>
+                            <td><code class="text-light">@pb.IpAddress</code></td>
+                            <td><b class="text-uppercase text-info">@pb.PostbackType</b></td>
+>>>>>>> 19e1c65 (18.11.2026)
+                            <td><span class="text-white">@pb.Payout AZN</span></td>
+                            <td>
+                                @if (pb.IsSuccessful)
+                                {
+                                    <span class="badge bg-success bg-opacity-20 text-success border border-success border-opacity-50">Uğurlu</span>
+                                }
+                                else
+                                {
+                                    <span class="badge bg-danger bg-opacity-20 text-danger border border-danger border-opacity-50">Xətalı / Rədd</span>
+                                }
+                            </td>
+                            <td><small class="text-muted font-monospace">@pb.ResponseMessage</small></td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
+
+<!-- Chart.js və Yerli Vaxt Skriptləri (Tam dəyişməz olaraq qorunub) -->
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<script>
+    const ctx = document.getElementById('performanceChart').getContext('2d');
+    
+    const labels = @Html.Raw(ViewBag.ChartLabels);
+    const clicks = @Html.Raw(ViewBag.ClicksData);
+    const ftds = @Html.Raw(ViewBag.FtdsData);
+
+    new Chart(ctx, {
+        type: 'line',
+        data: {
+            labels: labels,
+            datasets: [
+                {
+                    label: 'Ümumi Kliklər',
+                    data: clicks,
+                    borderColor: 'rgb(59, 130, 246)',
+                    backgroundColor: 'rgba(59, 130, 246, 0.1)',
+                    borderWidth: 2,
+                    tension: 0.35,
+                    fill: true,
+                    pointBackgroundColor: 'rgb(59, 130, 246)'
+                },
+                {
+                    label: 'Depozitlər (FTD)',
+                    data: ftds,
+                    borderColor: 'rgb(34, 197, 94)',
+                    backgroundColor: 'rgba(34, 197, 94, 0.1)',
+                    borderWidth: 2,
+                    tension: 0.35,
+                    fill: true,
+                    pointBackgroundColor: 'rgb(34, 197, 94)'
+                }
+            ]
+        },
+        options: {
+            responsive: true,
+            maintainAspectRatio: false,
+            plugins: {
+                legend: {
+                    position: 'top',
+                    labels: {
+                        color: '#f8fafc',
+                        font: {
+                            family: 'Inter',
+                            size: 13
+                        }
+                    }
+                }
+            },
+            scales: {
+                x: {
+                    grid: {
+                        color: 'rgba(255, 255, 255, 0.04)'
+                    },
+                    ticks: {
+                        color: '#94a3b8'
+                    }
+                },
+                y: {
+                    beginAtZero: true,
+                    grid: {
+                        color: 'rgba(255, 255, 255, 0.04)'
+                    },
+                    ticks: {
+                        stepSize: 1,
+                        color: '#94a3b8'
+                    }
+                }
+            }
+        }
+    });
+
+    // Yerli vaxt çevirici skript
+    document.querySelectorAll('.local-time').forEach(function(el) {
+        let utcDate = el.getAttribute('data-utc');
+        if(utcDate) {
+            let localDate = new Date(utcDate);
+            el.innerText = localDate.toLocaleString();
+        }
+    });
+</script>

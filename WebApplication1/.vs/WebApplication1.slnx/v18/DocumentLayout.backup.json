@@ -1,0 +1,645 @@
+{
+  "Version": 1,
+<<<<<<< HEAD
+  "WorkspaceRootPath": "C:\\Users\\FINTEX\\Desktop\\Fintex\\gb2\\WebApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{19317912-AC4B-45A3-1276-85453B678B5B}|WebApplication1.csproj|c:\\users\\fintex\\desktop\\fintex\\gb2\\webapplication1\\areas\\admin\\views\\casino\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{19317912-AC4B-45A3-1276-85453B678B5B}|WebApplication1.csproj|solutionrelative:areas\\admin\\views\\casino\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19317912-AC4B-45A3-1276-85453B678B5B}|WebApplication1.csproj|c:\\users\\fintex\\desktop\\fintex\\gb2\\webapplication1\\areas\\admin\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19317912-AC4B-45A3-1276-85453B678B5B}|WebApplication1.csproj|solutionrelative:areas\\admin\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19317912-AC4B-45A3-1276-85453B678B5B}|WebApplication1.csproj|c:\\users\\fintex\\desktop\\fintex\\gb2\\webapplication1\\areas\\admin\\controllers\\casinocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19317912-AC4B-45A3-1276-85453B678B5B}|WebApplication1.csproj|solutionrelative:areas\\admin\\controllers\\casinocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19317912-AC4B-45A3-1276-85453B678B5B}|WebApplication1.csproj|c:\\users\\fintex\\desktop\\fintex\\gb2\\webapplication1\\areas\\admin\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{19317912-AC4B-45A3-1276-85453B678B5B}|WebApplication1.csproj|solutionrelative:areas\\admin\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19317912-AC4B-45A3-1276-85453B678B5B}|WebApplication1.csproj|c:\\users\\fintex\\desktop\\fintex\\gb2\\webapplication1\\areas\\admin\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{19317912-AC4B-45A3-1276-85453B678B5B}|WebApplication1.csproj|solutionrelative:areas\\admin\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19317912-AC4B-45A3-1276-85453B678B5B}|WebApplication1.csproj|c:\\users\\fintex\\desktop\\fintex\\gb2\\webapplication1\\areas\\admin\\views\\admin\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{19317912-AC4B-45A3-1276-85453B678B5B}|WebApplication1.csproj|solutionrelative:areas\\admin\\views\\admin\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19317912-AC4B-45A3-1276-85453B678B5B}|WebApplication1.csproj|c:\\users\\fintex\\desktop\\fintex\\gb2\\webapplication1\\areas\\admin\\views\\casino\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{19317912-AC4B-45A3-1276-85453B678B5B}|WebApplication1.csproj|solutionrelative:areas\\admin\\views\\casino\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19317912-AC4B-45A3-1276-85453B678B5B}|WebApplication1.csproj|c:\\users\\fintex\\desktop\\fintex\\gb2\\webapplication1\\models\\dtos\\createcasinodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19317912-AC4B-45A3-1276-85453B678B5B}|WebApplication1.csproj|solutionrelative:models\\dtos\\createcasinodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19317912-AC4B-45A3-1276-85453B678B5B}|WebApplication1.csproj|c:\\users\\fintex\\desktop\\fintex\\gb2\\webapplication1\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{19317912-AC4B-45A3-1276-85453B678B5B}|WebApplication1.csproj|solutionrelative:areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19317912-AC4B-45A3-1276-85453B678B5B}|WebApplication1.csproj|c:\\users\\fintex\\desktop\\fintex\\gb2\\webapplication1\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{19317912-AC4B-45A3-1276-85453B678B5B}|WebApplication1.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19317912-AC4B-45A3-1276-85453B678B5B}|WebApplication1.csproj|c:\\users\\fintex\\desktop\\fintex\\gb2\\webapplication1\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{19317912-AC4B-45A3-1276-85453B678B5B}|WebApplication1.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+=======
+  "WorkspaceRootPath": "C:\\Users\\FINTEX\\Desktop\\Fintex\\Game-back-main\\WebApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{19317912-AC4B-45A3-1276-85453B678B5B}|WebApplication1.csproj|c:\\users\\fintex\\desktop\\fintex\\game-back-main\\webapplication1\\controllers\\postbackcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19317912-AC4B-45A3-1276-85453B678B5B}|WebApplication1.csproj|solutionrelative:controllers\\postbackcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19317912-AC4B-45A3-1276-85453B678B5B}|WebApplication1.csproj|c:\\users\\fintex\\desktop\\fintex\\game-back-main\\webapplication1\\areas\\admin\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{19317912-AC4B-45A3-1276-85453B678B5B}|WebApplication1.csproj|solutionrelative:areas\\admin\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19317912-AC4B-45A3-1276-85453B678B5B}|WebApplication1.csproj|c:\\users\\fintex\\desktop\\fintex\\game-back-main\\webapplication1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{19317912-AC4B-45A3-1276-85453B678B5B}|WebApplication1.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19317912-AC4B-45A3-1276-85453B678B5B}|WebApplication1.csproj|c:\\users\\fintex\\desktop\\fintex\\game-back-main\\webapplication1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19317912-AC4B-45A3-1276-85453B678B5B}|WebApplication1.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19317912-AC4B-45A3-1276-85453B678B5B}|WebApplication1.csproj|c:\\users\\fintex\\desktop\\fintex\\game-back-main\\webapplication1\\areas\\admin\\controllers\\casinocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19317912-AC4B-45A3-1276-85453B678B5B}|WebApplication1.csproj|solutionrelative:areas\\admin\\controllers\\casinocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19317912-AC4B-45A3-1276-85453B678B5B}|WebApplication1.csproj|c:\\users\\fintex\\desktop\\fintex\\game-back-main\\webapplication1\\common\\serviceresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19317912-AC4B-45A3-1276-85453B678B5B}|WebApplication1.csproj|solutionrelative:common\\serviceresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19317912-AC4B-45A3-1276-85453B678B5B}|WebApplication1.csproj|c:\\users\\fintex\\desktop\\fintex\\game-back-main\\webapplication1\\models\\postbacklog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19317912-AC4B-45A3-1276-85453B678B5B}|WebApplication1.csproj|solutionrelative:models\\postbacklog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19317912-AC4B-45A3-1276-85453B678B5B}|WebApplication1.csproj|c:\\users\\fintex\\desktop\\fintex\\game-back-main\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19317912-AC4B-45A3-1276-85453B678B5B}|WebApplication1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19317912-AC4B-45A3-1276-85453B678B5B}|WebApplication1.csproj|c:\\users\\fintex\\desktop\\fintex\\game-back-main\\webapplication1\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19317912-AC4B-45A3-1276-85453B678B5B}|WebApplication1.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19317912-AC4B-45A3-1276-85453B678B5B}|WebApplication1.csproj|c:\\users\\fintex\\desktop\\fintex\\game-back-main\\webapplication1\\areas\\admin\\views\\admin\\testpostback.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{19317912-AC4B-45A3-1276-85453B678B5B}|WebApplication1.csproj|solutionrelative:areas\\admin\\views\\admin\\testpostback.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19317912-AC4B-45A3-1276-85453B678B5B}|WebApplication1.csproj|c:\\users\\fintex\\desktop\\fintex\\game-back-main\\webapplication1\\services\\postbackservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19317912-AC4B-45A3-1276-85453B678B5B}|WebApplication1.csproj|solutionrelative:services\\postbackservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19317912-AC4B-45A3-1276-85453B678B5B}|WebApplication1.csproj|c:\\users\\fintex\\desktop\\fintex\\game-back-main\\webapplication1\\services\\casinoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19317912-AC4B-45A3-1276-85453B678B5B}|WebApplication1.csproj|solutionrelative:services\\casinoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19317912-AC4B-45A3-1276-85453B678B5B}|WebApplication1.csproj|c:\\users\\fintex\\desktop\\fintex\\game-back-main\\webapplication1\\areas\\admin\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19317912-AC4B-45A3-1276-85453B678B5B}|WebApplication1.csproj|solutionrelative:areas\\admin\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19317912-AC4B-45A3-1276-85453B678B5B}|WebApplication1.csproj|c:\\users\\fintex\\desktop\\fintex\\game-back-main\\webapplication1\\areas\\admin\\views\\casino\\casinos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{19317912-AC4B-45A3-1276-85453B678B5B}|WebApplication1.csproj|solutionrelative:areas\\admin\\views\\casino\\casinos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19317912-AC4B-45A3-1276-85453B678B5B}|WebApplication1.csproj|c:\\users\\fintex\\desktop\\fintex\\game-back-main\\webapplication1\\services\\geoipservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19317912-AC4B-45A3-1276-85453B678B5B}|WebApplication1.csproj|solutionrelative:services\\geoipservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19317912-AC4B-45A3-1276-85453B678B5B}|WebApplication1.csproj|c:\\users\\fintex\\desktop\\fintex\\game-back-main\\webapplication1\\models\\casino.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19317912-AC4B-45A3-1276-85453B678B5B}|WebApplication1.csproj|solutionrelative:models\\casino.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19317912-AC4B-45A3-1276-85453B678B5B}|WebApplication1.csproj|c:\\users\\fintex\\desktop\\fintex\\game-back-main\\webapplication1\\models\\clicklog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19317912-AC4B-45A3-1276-85453B678B5B}|WebApplication1.csproj|solutionrelative:models\\clicklog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19317912-AC4B-45A3-1276-85453B678B5B}|WebApplication1.csproj|c:\\users\\fintex\\desktop\\fintex\\game-back-main\\webapplication1\\models\\conversiontransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19317912-AC4B-45A3-1276-85453B678B5B}|WebApplication1.csproj|solutionrelative:models\\conversiontransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19317912-AC4B-45A3-1276-85453B678B5B}|WebApplication1.csproj|c:\\users\\fintex\\desktop\\fintex\\game-back-main\\webapplication1\\areas\\admin\\views\\casino\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{19317912-AC4B-45A3-1276-85453B678B5B}|WebApplication1.csproj|solutionrelative:areas\\admin\\views\\casino\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19317912-AC4B-45A3-1276-85453B678B5B}|WebApplication1.csproj|c:\\users\\fintex\\desktop\\fintex\\game-back-main\\webapplication1\\areas\\admin\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{19317912-AC4B-45A3-1276-85453B678B5B}|WebApplication1.csproj|solutionrelative:areas\\admin\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19317912-AC4B-45A3-1276-85453B678B5B}|WebApplication1.csproj|c:\\users\\fintex\\desktop\\fintex\\game-back-main\\webapplication1\\areas\\admin\\views\\admin\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{19317912-AC4B-45A3-1276-85453B678B5B}|WebApplication1.csproj|solutionrelative:areas\\admin\\views\\admin\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19317912-AC4B-45A3-1276-85453B678B5B}|WebApplication1.csproj|c:\\users\\fintex\\desktop\\fintex\\game-back-main\\webapplication1\\areas\\admin\\views\\casino\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{19317912-AC4B-45A3-1276-85453B678B5B}|WebApplication1.csproj|solutionrelative:areas\\admin\\views\\casino\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19317912-AC4B-45A3-1276-85453B678B5B}|WebApplication1.csproj|c:\\users\\fintex\\desktop\\fintex\\game-back-main\\webapplication1\\models\\dtos\\createcasinodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19317912-AC4B-45A3-1276-85453B678B5B}|WebApplication1.csproj|solutionrelative:models\\dtos\\createcasinodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19317912-AC4B-45A3-1276-85453B678B5B}|WebApplication1.csproj|c:\\users\\fintex\\desktop\\fintex\\game-back-main\\webapplication1\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{19317912-AC4B-45A3-1276-85453B678B5B}|WebApplication1.csproj|solutionrelative:areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19317912-AC4B-45A3-1276-85453B678B5B}|WebApplication1.csproj|c:\\users\\fintex\\desktop\\fintex\\game-back-main\\webapplication1\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{19317912-AC4B-45A3-1276-85453B678B5B}|WebApplication1.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19317912-AC4B-45A3-1276-85453B678B5B}|WebApplication1.csproj|c:\\users\\fintex\\desktop\\fintex\\game-back-main\\webapplication1\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{19317912-AC4B-45A3-1276-85453B678B5B}|WebApplication1.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19317912-AC4B-45A3-1276-85453B678B5B}|WebApplication1.csproj|c:\\users\\fintex\\desktop\\fintex\\game-back-main\\webapplication1\\migrations\\20261111101250_skdjbcskdjvb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19317912-AC4B-45A3-1276-85453B678B5B}|WebApplication1.csproj|solutionrelative:migrations\\20261111101250_skdjbcskdjvb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+>>>>>>> 19e1c65 (18.11.2026)
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+<<<<<<< HEAD
+          "SelectedChildIndex": 4,
+=======
+          "SelectedChildIndex": 3,
+>>>>>>> 19e1c65 (18.11.2026)
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+<<<<<<< HEAD
+              "Title": "CasinoController.cs",
+              "DocumentMoniker": "C:\\Users\\FINTEX\\Desktop\\Fintex\\gb2\\WebApplication1\\Areas\\Admin\\Controllers\\CasinoController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\CasinoController.cs",
+              "ToolTip": "C:\\Users\\FINTEX\\Desktop\\Fintex\\gb2\\WebApplication1\\Areas\\Admin\\Controllers\\CasinoController.cs",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\CasinoController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T11:37:44.176Z",
+=======
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\FINTEX\\Desktop\\Fintex\\Game-back-main\\WebApplication1\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\FINTEX\\Desktop\\Fintex\\Game-back-main\\WebApplication1\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAAAIYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-17T13:28:47.387Z",
+>>>>>>> 19e1c65 (18.11.2026)
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+<<<<<<< HEAD
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\FINTEX\\Desktop\\Fintex\\gb2\\WebApplication1\\Areas\\Admin\\Views\\Admin\\Index.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Admin\\Index.cshtml",
+              "ToolTip": "C:\\Users\\FINTEX\\Desktop\\Fintex\\gb2\\WebApplication1\\Areas\\Admin\\Views\\Admin\\Index.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Admin\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAuAAAAAAAAAA==",
+=======
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\FINTEX\\Desktop\\Fintex\\Game-back-main\\WebApplication1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\FINTEX\\Desktop\\Fintex\\Game-back-main\\WebApplication1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAAAE4AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-17T13:28:00.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ServiceResult.cs",
+              "DocumentMoniker": "C:\\Users\\FINTEX\\Desktop\\Fintex\\Game-back-main\\WebApplication1\\Common\\ServiceResult.cs",
+              "RelativeDocumentMoniker": "Common\\ServiceResult.cs",
+              "ToolTip": "C:\\Users\\FINTEX\\Desktop\\Fintex\\Game-back-main\\WebApplication1\\Common\\ServiceResult.cs",
+              "RelativeToolTip": "Common\\ServiceResult.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-17T13:23:05.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PostbackController.cs",
+              "DocumentMoniker": "C:\\Users\\FINTEX\\Desktop\\Fintex\\Game-back-main\\WebApplication1\\Controllers\\PostbackController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PostbackController.cs",
+              "ToolTip": "C:\\Users\\FINTEX\\Desktop\\Fintex\\Game-back-main\\WebApplication1\\Controllers\\PostbackController.cs",
+              "RelativeToolTip": "Controllers\\PostbackController.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAUwBYAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-03T11:20:36.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\FINTEX\\Desktop\\Fintex\\Game-back-main\\WebApplication1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\FINTEX\\Desktop\\Fintex\\Game-back-main\\WebApplication1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAABkAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-03T12:27:13.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\FINTEX\\Desktop\\Fintex\\Game-back-main\\WebApplication1\\Areas\\Admin\\Views\\Admin\\Index.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Admin\\Index.cshtml",
+              "ToolTip": "C:\\Users\\FINTEX\\Desktop\\Fintex\\Game-back-main\\WebApplication1\\Areas\\Admin\\Views\\Admin\\Index.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Admin\\Index.cshtml",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAAAGYAAACmAAAAAAAAAA==",
+>>>>>>> 19e1c65 (18.11.2026)
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-30T11:13:14.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+<<<<<<< HEAD
+              "DocumentIndex": 1,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\FINTEX\\Desktop\\Fintex\\gb2\\WebApplication1\\Areas\\Admin\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\FINTEX\\Desktop\\Fintex\\gb2\\WebApplication1\\Areas\\Admin\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAAIEAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T10:53:56.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_AdminLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\FINTEX\\Desktop\\Fintex\\gb2\\WebApplication1\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "ToolTip": "C:\\Users\\FINTEX\\Desktop\\Fintex\\gb2\\WebApplication1\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-30T11:02:04.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\FINTEX\\Desktop\\Fintex\\gb2\\WebApplication1\\Areas\\Admin\\Views\\Casino\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Casino\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\FINTEX\\Desktop\\Fintex\\gb2\\WebApplication1\\Areas\\Admin\\Views\\Casino\\Edit.cshtml*",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Casino\\Edit.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEcAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-30T11:06:45.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "C:\\Users\\FINTEX\\Desktop\\Fintex\\gb2\\WebApplication1\\Areas\\Admin\\Views\\Admin\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Admin\\Dashboard.cshtml",
+              "ToolTip": "C:\\Users\\FINTEX\\Desktop\\Fintex\\gb2\\WebApplication1\\Areas\\Admin\\Views\\Admin\\Dashboard.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Admin\\Dashboard.cshtml",
+              "ViewState": "AgIAALQAAAAAAAAAAAAuwNUAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-30T11:20:04.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\FINTEX\\Desktop\\Fintex\\gb2\\WebApplication1\\Areas\\Admin\\Views\\Casino\\Create.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Casino\\Create.cshtml",
+              "ToolTip": "C:\\Users\\FINTEX\\Desktop\\Fintex\\gb2\\WebApplication1\\Areas\\Admin\\Views\\Casino\\Create.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Casino\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-30T11:06:35.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CreateCasinoDto.cs",
+              "DocumentMoniker": "C:\\Users\\FINTEX\\Desktop\\Fintex\\gb2\\WebApplication1\\Models\\DTOs\\CreateCasinoDto.cs",
+              "RelativeDocumentMoniker": "Models\\DTOs\\CreateCasinoDto.cs",
+              "ToolTip": "C:\\Users\\FINTEX\\Desktop\\Fintex\\gb2\\WebApplication1\\Models\\DTOs\\CreateCasinoDto.cs",
+              "RelativeToolTip": "Models\\DTOs\\CreateCasinoDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T11:07:56.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\FINTEX\\Desktop\\Fintex\\gb2\\WebApplication1\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\FINTEX\\Desktop\\Fintex\\gb2\\WebApplication1\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-30T11:05:23.789Z",
+=======
+              "DocumentIndex": 6,
+              "Title": "PostbackLog.cs",
+              "DocumentMoniker": "C:\\Users\\FINTEX\\Desktop\\Fintex\\Game-back-main\\WebApplication1\\Models\\PostbackLog.cs",
+              "RelativeDocumentMoniker": "Models\\PostbackLog.cs",
+              "ToolTip": "C:\\Users\\FINTEX\\Desktop\\Fintex\\Game-back-main\\WebApplication1\\Models\\PostbackLog.cs",
+              "RelativeToolTip": "Models\\PostbackLog.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-03T11:27:49.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CasinoController.cs",
+              "DocumentMoniker": "C:\\Users\\FINTEX\\Desktop\\Fintex\\Game-back-main\\WebApplication1\\Areas\\Admin\\Controllers\\CasinoController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\CasinoController.cs",
+              "ToolTip": "C:\\Users\\FINTEX\\Desktop\\Fintex\\Game-back-main\\WebApplication1\\Areas\\Admin\\Controllers\\CasinoController.cs",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\CasinoController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAAEIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T11:37:44.176Z",
+>>>>>>> 19e1c65 (18.11.2026)
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+<<<<<<< HEAD
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\FINTEX\\Desktop\\Fintex\\gb2\\WebApplication1\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\FINTEX\\Desktop\\Fintex\\gb2\\WebApplication1\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-30T11:02:26.965Z",
+              "EditorCaption": ""
+=======
+              "Title": "TestPostback.cshtml",
+              "DocumentMoniker": "C:\\Users\\FINTEX\\Desktop\\Fintex\\Game-back-main\\WebApplication1\\Areas\\Admin\\Views\\Admin\\TestPostback.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Admin\\TestPostback.cshtml",
+              "ToolTip": "C:\\Users\\FINTEX\\Desktop\\Fintex\\Game-back-main\\WebApplication1\\Areas\\Admin\\Views\\Admin\\TestPostback.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Admin\\TestPostback.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-11T07:25:31.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "20261111101250_skdjbcskdjvb.cs",
+              "DocumentMoniker": "C:\\Users\\FINTEX\\Desktop\\Fintex\\Game-back-main\\WebApplication1\\Migrations\\20261111101250_skdjbcskdjvb.cs",
+              "RelativeDocumentMoniker": "Migrations\\20261111101250_skdjbcskdjvb.cs",
+              "ToolTip": "C:\\Users\\FINTEX\\Desktop\\Fintex\\Game-back-main\\WebApplication1\\Migrations\\20261111101250_skdjbcskdjvb.cs",
+              "RelativeToolTip": "Migrations\\20261111101250_skdjbcskdjvb.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAcwFQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T10:12:51.265Z"
+>>>>>>> 19e1c65 (18.11.2026)
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+<<<<<<< HEAD
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\FINTEX\\Desktop\\Fintex\\gb2\\WebApplication1\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\FINTEX\\Desktop\\Fintex\\gb2\\WebApplication1\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-30T11:02:22.262Z",
+              "EditorCaption": ""
+=======
+              "Title": "PostbackService.cs",
+              "DocumentMoniker": "C:\\Users\\FINTEX\\Desktop\\Fintex\\Game-back-main\\WebApplication1\\Services\\PostbackService.cs",
+              "RelativeDocumentMoniker": "Services\\PostbackService.cs",
+              "ToolTip": "C:\\Users\\FINTEX\\Desktop\\Fintex\\Game-back-main\\WebApplication1\\Services\\PostbackService.cs",
+              "RelativeToolTip": "Services\\PostbackService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T08:11:45.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\FINTEX\\Desktop\\Fintex\\Game-back-main\\WebApplication1\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\FINTEX\\Desktop\\Fintex\\Game-back-main\\WebApplication1\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAwwFsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-03T11:28:54.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CasinoService.cs",
+              "DocumentMoniker": "C:\\Users\\FINTEX\\Desktop\\Fintex\\Game-back-main\\WebApplication1\\Services\\CasinoService.cs",
+              "RelativeDocumentMoniker": "Services\\CasinoService.cs",
+              "ToolTip": "C:\\Users\\FINTEX\\Desktop\\Fintex\\Game-back-main\\WebApplication1\\Services\\CasinoService.cs",
+              "RelativeToolTip": "Services\\CasinoService.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T06:06:46.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\FINTEX\\Desktop\\Fintex\\Game-back-main\\WebApplication1\\Areas\\Admin\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\FINTEX\\Desktop\\Fintex\\Game-back-main\\WebApplication1\\Areas\\Admin\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAABEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T10:53:56.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Casinos.cshtml",
+              "DocumentMoniker": "C:\\Users\\FINTEX\\Desktop\\Fintex\\Game-back-main\\WebApplication1\\Areas\\Admin\\Views\\Casino\\Casinos.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Casino\\Casinos.cshtml",
+              "ToolTip": "C:\\Users\\FINTEX\\Desktop\\Fintex\\Game-back-main\\WebApplication1\\Areas\\Admin\\Views\\Casino\\Casinos.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Casino\\Casinos.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-11T07:22:06.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GeoIpService.cs",
+              "DocumentMoniker": "C:\\Users\\FINTEX\\Desktop\\Fintex\\Game-back-main\\WebApplication1\\Services\\GeoIpService.cs",
+              "RelativeDocumentMoniker": "Services\\GeoIpService.cs",
+              "ToolTip": "C:\\Users\\FINTEX\\Desktop\\Fintex\\Game-back-main\\WebApplication1\\Services\\GeoIpService.cs",
+              "RelativeToolTip": "Services\\GeoIpService.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T06:05:27.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ClickLog.cs",
+              "DocumentMoniker": "C:\\Users\\FINTEX\\Desktop\\Fintex\\Game-back-main\\WebApplication1\\Models\\ClickLog.cs",
+              "RelativeDocumentMoniker": "Models\\ClickLog.cs",
+              "ToolTip": "C:\\Users\\FINTEX\\Desktop\\Fintex\\Game-back-main\\WebApplication1\\Models\\ClickLog.cs",
+              "RelativeToolTip": "Models\\ClickLog.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAzwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-03T11:34:38.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ConversionTransaction.cs",
+              "DocumentMoniker": "C:\\Users\\FINTEX\\Desktop\\Fintex\\Game-back-main\\WebApplication1\\Models\\ConversionTransaction.cs",
+              "RelativeDocumentMoniker": "Models\\ConversionTransaction.cs",
+              "ToolTip": "C:\\Users\\FINTEX\\Desktop\\Fintex\\Game-back-main\\WebApplication1\\Models\\ConversionTransaction.cs",
+              "RelativeToolTip": "Models\\ConversionTransaction.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAYwDkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-03T11:52:06.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Casino.cs",
+              "DocumentMoniker": "C:\\Users\\FINTEX\\Desktop\\Fintex\\Game-back-main\\WebApplication1\\Models\\Casino.cs",
+              "RelativeDocumentMoniker": "Models\\Casino.cs",
+              "ToolTip": "C:\\Users\\FINTEX\\Desktop\\Fintex\\Game-back-main\\WebApplication1\\Models\\Casino.cs",
+              "RelativeToolTip": "Models\\Casino.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAuwCoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-03T11:52:58.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "_AdminLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\FINTEX\\Desktop\\Fintex\\Game-back-main\\WebApplication1\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "ToolTip": "C:\\Users\\FINTEX\\Desktop\\Fintex\\Game-back-main\\WebApplication1\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-30T11:02:04.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\FINTEX\\Desktop\\Fintex\\Game-back-main\\WebApplication1\\Areas\\Admin\\Views\\Casino\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Casino\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\FINTEX\\Desktop\\Fintex\\Game-back-main\\WebApplication1\\Areas\\Admin\\Views\\Casino\\Edit.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Casino\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEcAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-30T11:06:45.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "C:\\Users\\FINTEX\\Desktop\\Fintex\\Game-back-main\\WebApplication1\\Areas\\Admin\\Views\\Admin\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Admin\\Dashboard.cshtml",
+              "ToolTip": "C:\\Users\\FINTEX\\Desktop\\Fintex\\Game-back-main\\WebApplication1\\Areas\\Admin\\Views\\Admin\\Dashboard.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Admin\\Dashboard.cshtml",
+              "ViewState": "AgIAALQAAAAAAAAAAAAuwNUAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-30T11:20:04.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\FINTEX\\Desktop\\Fintex\\Game-back-main\\WebApplication1\\Areas\\Admin\\Views\\Casino\\Create.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Casino\\Create.cshtml",
+              "ToolTip": "C:\\Users\\FINTEX\\Desktop\\Fintex\\Game-back-main\\WebApplication1\\Areas\\Admin\\Views\\Casino\\Create.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Casino\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-30T11:06:35.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CreateCasinoDto.cs",
+              "DocumentMoniker": "C:\\Users\\FINTEX\\Desktop\\Fintex\\Game-back-main\\WebApplication1\\Models\\DTOs\\CreateCasinoDto.cs",
+              "RelativeDocumentMoniker": "Models\\DTOs\\CreateCasinoDto.cs",
+              "ToolTip": "C:\\Users\\FINTEX\\Desktop\\Fintex\\Game-back-main\\WebApplication1\\Models\\DTOs\\CreateCasinoDto.cs",
+              "RelativeToolTip": "Models\\DTOs\\CreateCasinoDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T11:07:56.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\FINTEX\\Desktop\\Fintex\\Game-back-main\\WebApplication1\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\FINTEX\\Desktop\\Fintex\\Game-back-main\\WebApplication1\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-30T11:05:23.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\FINTEX\\Desktop\\Fintex\\Game-back-main\\WebApplication1\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\FINTEX\\Desktop\\Fintex\\Game-back-main\\WebApplication1\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-30T11:02:26.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\FINTEX\\Desktop\\Fintex\\Game-back-main\\WebApplication1\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\FINTEX\\Desktop\\Fintex\\Game-back-main\\WebApplication1\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-30T11:02:22.262Z"
+>>>>>>> 19e1c65 (18.11.2026)
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

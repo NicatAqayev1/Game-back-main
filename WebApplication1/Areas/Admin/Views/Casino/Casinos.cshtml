@@ -1,0 +1,87 @@
+﻿@model IEnumerable<CasinoListDto>
+
+    <div class="container my-5">
+        <!-- Başlıq və Düymələr -->
+        <div class="d-flex justify-content-between align-items-center mb-4">
+            <h2 class="text-white fw-bold">🎰 Kazino Brendləri</h2>
+            <div class="d-flex gap-2">
+<<<<<<< HEAD
+                <a asp-controller="admin" asp-action="dashboard" class="btn btn-outline-light">← Panələ Qayıt</a>
+=======
+                <a asp-controller="admin" asp-action="index" class="btn btn-outline-light">← Panələ Qayıt</a>
+>>>>>>> 19e1c65 (18.11.2026)
+                <a asp-action="Create" class="btn btn-success">+ Yeni Kazino Əlavə Et</a>
+                <a asp-controller="admin" asp-action="logout" class="btn btn-outline-danger">Çıxış Et</a>
+            </div>
+        </div>
+
+        <!-- Cədvəl Kartı -->
+        <div class="card bg-black border-secondary shadow-lg">
+            <div class="card-body table-responsive">
+                <table class="table table-dark table-hover align-middle mb-0">
+                    <thead>
+                        <tr class="text-secondary text-uppercase fs-7">
+                            <th scope="col">ID</th>
+                            <th scope="col">Brend Adı</th>
+                            <th scope="col">Slug (URL kəsimi)</th>
+                            <th scope="col">Affiliate Link</th>
+                            <th scope="col" class="text-end">(De)Active</th>
+                            <th scope="col" class="text-end">Əməliyyatlar</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @if (Model != null && Model.Any())
+                        {
+                            @foreach (var item in Model)
+                            {
+                                <tr>
+                                    <td class="text-muted">@item.Id</td>
+                                    <td><strong class="text-white">@item.Name</strong></td>
+                                    <td><code class="text-info bg-dark px-2 py-1 rounded">/go/@item.Slug</code></td>
+                                    <td><small class="text-secondary text-truncate d-inline-block" style="max-width: 250px;">@item.AffiliateUrl</small></td>
+                                    <td>@if (item.IsActive)
+                                        {
+                                            <span class="badge bg-success">Aktiv</span>
+                                        }
+                                        else
+                                        {
+                                            <span class="badge bg-secondary">Deaktiv</span>
+                                        }
+                                    </td>
+                                    <td class="text-end">
+                                        <div class="d-flex justify-content-end gap-2">
+                                            <a asp-action="edit" asp-route-id="@item.Id" class="btn btn-sm btn-warning fw-semibold">Düzəliş et</a>
+                                            <form asp-action="delete" asp-route-id="@item.Id" method="post" onsubmit="return confirm('Bu kazinonu silməyə əminsiniz?.Buna bağlı Kliklər də silinəcək');" class="m-0">
+                                                @Html.AntiForgeryToken()
+                                                <button type="submit" class="btn btn-sm btn-danger fw-semibold">Sil</button>
+                                            </form>
+                                            <form asp-action="ToggleStatus" asp-route-id="@item.Id" method="post" style="display:inline;">
+                                                @if (item.IsActive)
+                                                {
+                                                    <button type="submit" class="btn btn-warning btn-sm" title="Deaktiv et">
+                                                        Deaktiv Et
+                                                    </button>
+                                                }
+                                                else
+                                                {
+                                                    <button type="submit" class="btn btn-success btn-sm" title="Aktiv et">
+                                                        Aktiv Et
+                                                    </button>
+                                                }
+                                            </form>
+                                        </div>
+                                    </td>
+                                </tr>
+                            }
+                        }
+                        else
+                        {
+                            <tr>
+                                <td colspan="5" class="text-center text-muted py-4">Heç bir kazino tapılmadı.</td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
